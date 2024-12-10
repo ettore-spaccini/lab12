@@ -3,7 +3,6 @@ package it.unibo.es1;
 import java.util.*;
 
 public interface Logics {
-	
 	/**
 	 * @return the number of buttons (except Print)
 	 */
